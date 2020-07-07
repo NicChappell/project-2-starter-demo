@@ -1,6 +1,5 @@
 // require our models
 var db = require("../models");
-const { reset } = require("nodemon");
 
 // routes
 module.exports = function (app) {
