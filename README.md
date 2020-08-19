@@ -1,3 +1,5 @@
-# Blogger
+# Project II Starter Demo
 
-A blogging app made using Handlebars and an Express server backed by a MySQL database with a Sequelize ORM and deployed on Heroku: [Blogger](https://afternoon-beach-90137.herokuapp.com/)
+A repo for demonstrating how to get started building a Project II application.
+
+Deployed with Heroku: [afternoon-beach-90137.herokuapp.com/](https://afternoon-beach-90137.herokuapp.com/)
